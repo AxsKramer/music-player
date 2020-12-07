@@ -1,2 +1,2 @@
-# music-player
-Music Player
+# Music Player
+Music Player, implementation of controls with js.
